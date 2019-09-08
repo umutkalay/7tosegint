@@ -1,7 +1,7 @@
 # 7 segmentli bir sayıyı tam sayıya çevirme
 # Convert a 7-segment number to an integer
-#seg fonksiyonuna sırası ile 1,2 ve 3. satırı giriyoruz.
-
+# seg fonksiyonuna sırası ile 1,2 ve 3. satırı giriyoruz.
+# We enter lines 1,2 and 3 respectively in seg function.
 def seg(a,b,c):
     olası = []
     atlama = 0
