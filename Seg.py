@@ -1,4 +1,5 @@
-
+# 7 segmentli bir sayıyı tam sayıya çevirme
+# Convert a 7-segment number to an integer
 #seg fonksiyonuna sırası ile 1,2 ve 3. satırı giriyoruz.
 
 def seg(a,b,c):
